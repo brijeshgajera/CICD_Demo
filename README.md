@@ -1,8 +1,6 @@
 # Jenkins Pipeline - CICD - Demo
 
 This project contains 4 major components.
-Please follow this link to see execution step by step.
-https://www.brijeshgajera.com/index.php/2020/09/04/docker-container-jenkins-pipeline-robotframework-demo/
 
 ### 1. Jenkins
    - Please refer Jenkinsfile to get more aboute it.
